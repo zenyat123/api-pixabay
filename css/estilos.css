@@ -1,0 +1,82 @@
+
+
+body
+{
+	margin: 0px;
+	color: #337ab7;
+}
+
+a 
+{
+	list-style: none;
+	color: #337ab7;
+}
+
+a:hover
+{
+	list-style: none;
+	text-decoration: none;
+	color: #337ab7;
+}
+
+.titulo
+{
+	font-size: 60px;
+	font-weight: bold;
+	margin: 120px 0px;
+}
+
+.color 
+{
+	color: #337ab7;
+}
+
+.contenedor
+{
+	margin: 0% 20%;	
+}
+
+.form-control
+{
+	color: #337ab7;
+}
+
+.form-control:focus
+{
+	color: #337ab7;
+}
+
+.contenedorCaja
+{
+	margin: 30px 0px;
+}
+
+.boton
+{
+	background: #337ab7;
+	width: 180px;
+	margin: 0px 8px;
+	margin-bottom: 10px;
+}
+
+.boton:hover
+{
+	background: #215582;
+}
+
+#resultado
+{
+	margin-top: 20px;
+}
+
+.card
+{
+	margin: 20px; 
+}
+
+.tarjeta
+{
+	margin: 0px;
+	margin-bottom: 20px;
+}
+
